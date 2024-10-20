@@ -1,7 +1,7 @@
 // lib/main.dart
 
 // Importing necessary packages
-import 'package:fd_drag/imports.dart'; // Importing the custom module that contains various UI components and logic
+import 'package:fd_drag/icon_dragging_page.dart';
 import 'package:flutter/material.dart'; // Importing Flutter's material design package for building UI
 
 // Main function to start the Flutter application

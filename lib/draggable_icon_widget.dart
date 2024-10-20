@@ -1,6 +1,7 @@
-part of 'imports.dart';
+import 'package:flutter/material.dart';
 
-// Widget that represents a draggable child in the drag-and-drop interface
+import 'dragging_child_model.dart';
+
 class DraggingChildWidget extends StatelessWidget {
   // The model containing the data and behavior for this draggable item
   final DraggingChildModel model;

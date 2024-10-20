@@ -1,6 +1,5 @@
-part of 'imports.dart';
+import 'package:flutter/material.dart';
 
-// Model class that represents the state and behavior of a draggable child widget
 class DraggingChildModel {
   // The icon data associated with this draggable item
   final IconData iconData;

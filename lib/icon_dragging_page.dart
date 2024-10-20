@@ -1,6 +1,8 @@
-part of 'imports.dart';
+import 'package:flutter/material.dart';
 
-// Stateful widget that represents a draggable icon interface
+import 'draggable_icon_widget.dart';
+import 'dragging_child_model.dart';
+
 class IconDraggingPage extends StatefulWidget {
   const IconDraggingPage({super.key});
 
